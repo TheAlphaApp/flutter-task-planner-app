@@ -21,8 +21,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ## Support Me 
 I am from different profession but fall in love with programming. I make this in my free time.
 If you learn something from this,
-you can consider buying me a cup of coffee.
-[paypal](https://www.paypal.me/SouravSuman)
+you can consider buying me a cup of coffee.  
+Paypal - [paypal](https://www.paypal.me/SouravSuman)  
 UPI - souravsuman636@okaxis
 
 ## Getting Started
