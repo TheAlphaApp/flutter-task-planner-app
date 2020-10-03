@@ -17,7 +17,6 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ## Created & Maintained By
 
 [Sourav Kumar Suman](https://github.com/TheAlphaApp)  
-([Instagram](https://www.instagram.com/souravsuman636))
 ## Support Me 
 I am from different profession but fall in love with programming. I make this in my free time.
 If you learn something from this,
