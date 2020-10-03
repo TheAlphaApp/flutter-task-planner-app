@@ -17,6 +17,4 @@ void main() {
         expect(titleFinder, findsOneWidget);
         expect(dateFinder, findsOneWidget);
       });
-
-  test('Title and date pickers are available', () {});
 }
